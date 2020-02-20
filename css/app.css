@@ -301,7 +301,7 @@ main img {
 						padding-top: 3rem;
 						background-color: #BC5E41;
 						height: 50%;
-					    min-height: 50%;
+					    /*min-height: 50%;*/
 					}
 
 					div#exampleMenu1.reveal .close-button {
