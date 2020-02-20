@@ -25,11 +25,12 @@ ul {
 	padding: 1rem;
 }
 
-.reveal ul {
-	position: absolute;
+.reveal ul li a {
+	/*position: absolute;
 	top: 50%;
 	left: 50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);*/
+	font-size: 15px;
 }
 
 ul li a{
